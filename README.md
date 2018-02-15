@@ -1,1 +1,1 @@
-## Welcome to eTextile web page
+## The eTextile.org front page
